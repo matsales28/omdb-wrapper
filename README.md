@@ -1,6 +1,5 @@
 # OMDB Wrapper
 
-First of all I want to thanks the opportunity given by the Instituto Atlântico to show my abilities and also thank you them for having allowing me to do it over the weekend.
 A Ruby on Rails API that encapsulates the OMbd API search service.
 
 # What can my project do?
